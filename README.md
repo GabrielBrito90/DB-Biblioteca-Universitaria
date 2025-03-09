@@ -30,13 +30,9 @@ Como tecnologias utilizamos MySQL Workbench como banco de dados e Power BI Deskt
   O banco de dados foi modelado para armazenar informações essenciais sobre os livros, usuários, empréstimos, funcionários e questões financeiras. Ele foi estruturado em cinco tabelas principais:
 
     Acervo: Contém informações sobre os livros disponíveis na biblioteca, como título, autor, categoria, e ano de publicação.
-
     Usuários: Armazena dados dos usuários da biblioteca, incluindo nome, e-mail e telefone.
-
     Funcionários: Armazena dados das pessoas que compõem a estrutura de trabalho, bem como seus níveis e funções.
-
     Empréstimos: Registra os empréstimos realizados pelos usuários, associando um livro a um usuário e contendo informações como a data de empréstimo e a data de devolução prevista.
-
     Financeiro: Registra a ocorrência de multas e pagamentos realizados.
 
 - Conexão MySQL com Power BI
@@ -56,10 +52,8 @@ Como tecnologias utilizamos MySQL Workbench como banco de dados e Power BI Deskt
 - Criação de Relatórios e Dashboards
   Com os dados preparados, o Power BI permite a criação de relatórios interativos. Alguns exemplos de relatórios incluem:
 
-    Relatório de Empréstimos: Um gráfico que mostra o número de empréstimos por mês, permitindo acompanhar a demanda de livros ao longo do tempo.
-    Relatório de Livros Disponíveis: Um painel que exibe os livros mais populares ou mais emprestados da biblioteca.
-    Relatório de Usuários Ativos: Um gráfico que mostra a quantidade de usuários ativos e os livros mais frequentemente emprestados.
-    Esses relatórios são altamente interativos, permitindo que os administradores da biblioteca filtrem os dados por período, categoria de livros ou tipo de usuário, proporcionando insights detalhados sobre a operação da biblioteca.
+    Um painel onde consta a quantidade total de livros no acervo da biblioteca, seguido de um gráfico que mostra em números inteiros e porcentagem os livros disponíveis para empréstimo no momento, e a quantidade de livros indisponíveis por estarem em manutenção ou por   outro estudante já ter alocado. 
+    Os livros em manutenção são separados em 3 categorias: limpeza, digitalização e reparos físicos.
 
 - Geração de Relatórios Interativos
   A partir dos dados coletados e transformados, o Power BI permite a criação de dashboards interativos que podem ser compartilhados com os administradores da biblioteca. As visualizações incluem gráficos de barras, tabelas dinâmicas e outros elementos visuais que facilitam a análise de tendências, como:
