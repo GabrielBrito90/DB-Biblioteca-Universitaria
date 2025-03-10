@@ -62,3 +62,10 @@ O Power BI Desktop é configurado para se conectar ao banco de dados MySQL e ext
     - Gráficos de linha para acompanhar a evolução de empréstimos ao longo do tempo.
     - Mapas para visualizar a distribuição geográfica dos usuários, se aplicável.
     - Esses relatórios permitem uma análise mais profunda da operação da biblioteca e podem ajudar na tomada de decisões mais informadas sobre aquisição de livros, promoção de empréstimos ou estratégias de marketing para atrair mais leitores.
+ 
+
+  - Acesse o Video Projeto
+  
+https://github.com/user-attachments/assets/1eefd70c-3b45-4383-8598-0e48f7fd0814
+
+
