@@ -64,8 +64,11 @@ O Power BI Desktop é configurado para se conectar ao banco de dados MySQL e ext
     - Esses relatórios permitem uma análise mais profunda da operação da biblioteca e podem ajudar na tomada de decisões mais informadas sobre aquisição de livros, promoção de empréstimos ou estratégias de marketing para atrair mais leitores.
  
 
-  - Acesse o Video Projeto
-  
-https://github.com/user-attachments/assets/1eefd70c-3b45-4383-8598-0e48f7fd0814
+  - Acesse o Video Projeto 
+
+
+https://github.com/user-attachments/assets/b2b9e07c-f43e-4747-8c43-23f92056a9f7
+
+
 
 
